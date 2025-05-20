@@ -4,4 +4,4 @@
 
 This is a sample UI screenshot:
 
-![image_alt](https://github.com/mraliakbark/AndroidDesignUI/blob/48d6754ad251ac7e085ab8b8490eb0c39d8a4b4e/Screenshot%202025-05-20%20175541.png)
+![image_alt](https://github.com/mraliakbark/AndroidProfileDesign/blob/037b9b5969fc9b98919a81b5093c4733f1e0fba1/Screenshot%202025-05-20%20175541.png)
